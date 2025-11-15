@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Crisis Assistant",
+  "description": "An emergency assistant that auto-alerts friends, provides AI-driven survival steps, finds safe points using your location, and tracks help status.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
